@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML5 · Databases · Front-End Development · jQuery · MongoDB · JavaScript · Mern · Back-End Web Development · GitHub · MERN Stack · React.js**
 
-- 👨‍💻 Here is a link to my [Professional Portfolio]](https://rosesandbooks89.github.io/my-professional-portfolio/)
+- 👨‍💻 Here is a link to my [Professional Portfolio](https://rosesandbooks89.github.io/my-professional-portfolio/)
 
 - 💬 Ask me about **I am a new Full Stack Developer. I am finishing up a course through UTSA Coding Bootcamp to kick-start my development career. I am excited to start my new career and see where it takes me. I am a hard worker and a quick learner. I am excited to see what I can do with my new skills.**
 
