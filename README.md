@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: +830-481-1489 · emilyarizcorreta@gmail.com 
 
-- 📄 Here is a link to my [Resume] [https://drive.google.com/file/d/1toyvvTaNCDQ7gchs5Oq_aUOG4ToTbNSV/view?usp=sharing](https://drive.google.com/file/d/1toyvvTaNCDQ7gchs5Oq_aUOG4ToTbNSV/view?usp=sharing)
+- 📄 Here is a link to my [Resume](https://drive.google.com/file/d/1toyvvTaNCDQ7gchs5Oq_aUOG4ToTbNSV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
