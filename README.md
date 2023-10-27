@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **HTML5 · Databases · Front-End Development · jQuery · MongoDB · JavaScript · Mern · Back-End Web Development · GitHub · MERN Stack · React.js**
 
-- 👨‍💻 All of my projects are available at [https://rosesandbooks89.github.io/my-professional-portfolio/](https://rosesandbooks89.github.io/my-professional-portfolio/)
+- 👨‍💻 Here is a link to my [Professional Portfolio]](https://rosesandbooks89.github.io/my-professional-portfolio/)
 
 - 💬 Ask me about **I am a new Full Stack Developer. I am finishing up a course through UTSA Coding Bootcamp to kick-start my development career. I am excited to start my new career and see where it takes me. I am a hard worker and a quick learner. I am excited to see what I can do with my new skills.**
 
-- 📫 How to reach me **+830-481-1489 · emilyarizcorreta@gmail.com· linkedin.com/in/emilyarizcorreta/**
+- 📫 How to reach me: +830-481-1489 · emilyarizcorreta@gmail.com 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1toyvvTaNCDQ7gchs5Oq_aUOG4ToTbNSV/view?usp=sharing](https://drive.google.com/file/d/1toyvvTaNCDQ7gchs5Oq_aUOG4ToTbNSV/view?usp=sharing)
 
